@@ -1,0 +1,13 @@
+aulas-e-encontros
+encontros-e-palestras
+fevereiro
+março
+abril
+maio
+junho
+julho
+agosto
+intro
+ciências-de-dados
+práticas-investigativas
+inteligência-artificial
