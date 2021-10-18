@@ -77,6 +77,11 @@ Código de Incorporação:
 	Código de Incorporação: 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/d1HSSJrAEiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+06/04 - (Encontro) IA - "Educação e Família: Fato ou Fake?" 
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Pzg62m0AwMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 08/04 - Retomada de Ciência de Dados (Visualização e Ciência de Dados)
 	Link para gravação: https://youtu.be/pbioaYwR89U
 	Código de Incorporação:
@@ -142,6 +147,10 @@ Link para gravação: https://www.youtube.com/watch?v=u8IongyEKo4
 	Código de Incorporação: 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/u8IongyEKo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+16/06 - (Encontro) - "Divertida mente das máquinas" 
+Raony Maia
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dN3j0V4-HLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 28/06 - (Palestra) - Encontro (28/06) - “Experiências com Hortas Urbanas em Salvador” com Lídice Paraguassu
 Link para gravação: https://www.youtube.com/watch?v=4_Ispt8dYeA
@@ -193,4 +202,50 @@ Link para gravação: https://youtu.be/PHhSEY6vFTI
 	Código de Incorporação:
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/iNIgVcBTvlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+04/08 - (Palestra) - "Ciência de Dados na Engenharia de Transporte"
+Jorge Ubirajara Pedreira Junior  
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3kugzT-NuGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+14/08 - (Encontro) Aula de IA: Emprego e População
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LEiWjk_XJYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Encontro (16/08) - "Saúde e Probabilidade - Ciência de Dados"
+Robson Pessoa, Nicole Príncipe
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Hq1gg8OcWfE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+Palestra (18/08) - Palestra - Como Trabalhar com Tecnologia em Programar
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mODO4Pu46Yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Encontro (18/08) - Protagonismos (O acesso à saúde para as comunidades vulneráveis no Brasil)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/C8klhffaOOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## SETEMBRO
+
+Encontro (01/09) - Práticas Investigativas - Projetos Científicos na prática
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/3cCzZk73b1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Encontro (25/09) - Práticas Investigativas - Acompanhamento dos Projetos Científicos
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/OgAxpAyqXyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## OUTUBRO
+
+## NOVEMBRO
+
+## DEZEMBRO
+
+
 

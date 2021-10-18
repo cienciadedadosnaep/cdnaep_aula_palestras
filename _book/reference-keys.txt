@@ -7,6 +7,10 @@ maio
 junho
 julho
 agosto
+setembro
+outubro
+novembro
+dezembro
 intro
 ciências-de-dados
 práticas-investigativas
