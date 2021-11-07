@@ -1,6 +1,9 @@
 # Encontros e Palestras
 
+ 
 ## FEVEREIRO
+
+Lista de encontros.
 
 03/02 - Encontro com Ciência de Dados 
 	Link para a gravação:
